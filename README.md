@@ -10,7 +10,7 @@ The Dabloon trend is/was a "cat economy" ran on TikTok.
 
 # Installation
 
-To install the dependancies, run install.bat or run "pip install tkinter".
+To install the dependancies, run setup.bat or run "pip install tkinter".
 
 Requires at least python 3!!!
 
