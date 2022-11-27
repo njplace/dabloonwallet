@@ -17,4 +17,5 @@ Requires at least python 3!!!
 # Starting
 
 To start, either run start.bat or run "python3 main.py".
+
 You can also pin start.bat for easy starting!
