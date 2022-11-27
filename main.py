@@ -72,6 +72,7 @@ def purchase():
     
     with open(items,'w') as f:
         f.writelines(curitems)
+    quit()
 
 def sell():
     out = 0
@@ -104,6 +105,7 @@ def sell():
     if out == 0:
         messagebox.showerror("Sell Item","Item not found.")
     if out == 1:
+        quit()
 
 
 def showItems():
